@@ -63,7 +63,7 @@ Welcome to my central repository showcasing the coursework completed during my C
 ## Connect with Me
 
 - **Personal Website**: [joshjilot.com](https://joshjilot.com)  
-- **LinkedIn**: [linkedin.com/in/josh-jilot](https://www.linkedin.com/in/josh-jilot)  
+- **LinkedIn**: [linkedin.com/in/josh-jilot](https://www.linkedin.com/in/josh-jilot-4620472b2/)  
 
 ---
 
