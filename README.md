@@ -30,7 +30,7 @@ Welcome to my central repository showcasing the coursework completed during my C
   Focuses on integrating AI components into existing web-based systems, emphasizing human-in-the-loop approaches and explainability. Topics include managing data science workflows, model exploration, and deploying AI-assisted websites.  
   [View Repository](https://github.com/jjjilot/CS423)
 
-- **CS422 – Software Methodology I**  
+- **CS422 – Software Methodology I**
   Covers technical and nontechnical aspects of software development, including specification, planning, design, development, management, and maintenance of software projects. Emphasizes teamwork and structured approaches to software engineering.  
   [View Repository](https://github.com/jjjilot/CS422)
 
