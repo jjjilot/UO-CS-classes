@@ -30,28 +30,28 @@ Welcome to my central repository showcasing the coursework completed during my C
   Focuses on integrating AI components into existing web-based systems, emphasizing human-in-the-loop approaches and explainability. Topics include managing data science workflows, model exploration, and deploying AI-assisted websites.  
   [View Repository](https://github.com/jjjilot/CS423)
 
-- **CS422 – Software Methodology I**
+- **CS422 – Software Methodology I**  
   Covers technical and nontechnical aspects of software development, including specification, planning, design, development, management, and maintenance of software projects. Emphasizes teamwork and structured approaches to software engineering.  
   [View Repository](https://github.com/jjjilot/CS422)
 
-- **CS415 – Operating Systems**
-  Provides a comprehensive introduction to the design and implementation of modern operating systems. Topics include system calls, processes, threads, synchronization, CPU scheduling, virtual memory, deadlocks, distributed systems, networking, and OS security. Emphasizes both theoretical foundations and hands-on experience in Linux development.
+- **CS415 – Operating Systems**  
+  Provides a comprehensive introduction to the design and implementation of modern operating systems. Topics include system calls, processes, threads, synchronization, CPU scheduling, virtual memory, deadlocks, distributed systems, networking, and OS security. Emphasizes both theoretical foundations and hands-on experience in Linux development.  
   [View Repository](https://github.com/jjjilot/CS415)
 
-- **CS330 – Data Structures**  
-  Focuses on fundamental data structures and algorithmic techniques, emphasizing efficiency and problem-solving.  
+- **CS330 – C/C++ and Unix Programming**  
+  Focuses on software development using C/C++ in a Unix environment. Topics include shell scripting, version control, parallel programming, and clean coding practices.  
   [View Repository](https://github.com/jjjilot/CS330)
 
-- **CS314 – Operating Systems**  
-  Examines process management, memory management, and concurrency control in operating systems.  
+- **CS314 – Computer Organization**  
+  Covers digital logic, CPU architecture, memory, and x86-64 assembly. Includes C programming with an emphasis on memory management and low-level operations.  
   [View Repository](https://github.com/jjjilot/CS314)
 
-- **CS313 – Computer Organization**  
-  Covers low-level programming, assembly language, and digital logic design, providing insights into computer architecture.  
+- **CS313 – Intermediate Data Structures**  
+  Explores efficient data structures like trees and balanced search trees, sorting algorithms, and asymptotic analysis. Emphasizes the connection between algorithms and data design.  
   [View Repository](https://github.com/jjjilot/CS313)
 
-- **CS212 – Discrete Structures**  
-  Introduces formal logic, set theory, graph theory, and combinatorial structures, foundational to computer science.  
+- **CS212 – Computer Science III**  
+  Builds C programming skills and introduces core data structures (e.g., stacks, queues, maps) along with basic complexity analysis in a Linux development environment.  
   [View Repository](https://github.com/jjjilot/CS212)
 
 - **CS211 – Computer Science II**  
