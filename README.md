@@ -36,7 +36,6 @@ Welcome to my central repository showcasing the coursework completed during my C
 
 - **CS415 – Operating Systems**
   Provides a comprehensive introduction to the design and implementation of modern operating systems. Topics include system calls, processes, threads, synchronization, CPU scheduling, virtual memory, deadlocks, distributed systems, networking, and OS security. Emphasizes both theoretical foundations and hands-on experience in Linux development.
-
   [View Repository](https://github.com/jjjilot/CS415)
 
 - **CS330 – Data Structures**  
