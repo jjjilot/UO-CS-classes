@@ -34,6 +34,10 @@ Welcome to my central repository showcasing the coursework completed during my C
   Covers technical and nontechnical aspects of software development, including specification, planning, design, development, management, and maintenance of software projects. Emphasizes teamwork and structured approaches to software engineering.  
   [View Repository](https://github.com/jjjilot/CS422)
 
+- **CS415 – Operating Systems**
+Provides a comprehensive introduction to the design and implementation of modern operating systems. Topics include system calls, processes, threads, synchronization, CPU scheduling, virtual memory, deadlocks, distributed systems, networking, and OS security. Emphasizes both theoretical foundations and hands-on experience in Linux development. 
+[View Repository](https://github.com/jjjilot/CS415)
+
 - **CS330 – Data Structures**  
   Focuses on fundamental data structures and algorithmic techniques, emphasizing efficiency and problem-solving.  
   [View Repository](https://github.com/jjjilot/CS330)
