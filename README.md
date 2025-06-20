@@ -22,10 +22,6 @@ Welcome to my central repository showcasing the coursework completed during my C
   Covers fundamental security topics and practical solutions, including cryptography, program security, operating system protection, network security, privacy, and legal and ethical issues in computing.  
   [View Repository](https://github.com/jjjilot/CS433)
 
-- **CS425 – Principles of Programming Languages**  
-  Introduces different aspects of programming languages, including features, type systems, programming styles, and implementation. Covers multiple programming paradigms and languages such as ML, Haskell, Racket, JavaScript, and Prolog.  
-  [View Repository](https://github.com/jjjilot/CS425)
-
 - **CS423 – Software Methodology II (MLOps)**  
   Focuses on integrating AI components into existing web-based systems, emphasizing human-in-the-loop approaches and explainability. Topics include managing data science workflows, model exploration, and deploying AI-assisted websites.  
   [View Repository](https://github.com/jjjilot/CS423)
